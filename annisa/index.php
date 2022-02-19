@@ -19,7 +19,7 @@
       <thead>
         <tr>
           <th>No</th>
-          <th>Produks</th>
+          <th>Produkdf</th>
           <th>Dekripsi</th>
           <th>Harga Beli</th>
           <th>Harga Jual</th>
